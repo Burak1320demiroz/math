@@ -1,4 +1,6 @@
-# Galois Teorisi**Galois teorisi**, soyut cebir ve grup teorisi ile bağlantılı bir alandır ve özellikle denklemlerin çözülebilirliği ve köklerinin simetrileri hakkında derin sonuçlar sağlar. Adını **Évariste Galois**’tan alır ve 19. yüzyılın başlarında geliştirilmiştir. Galois teorisi, polinom denklemlerinin kökleri arasındaki ilişkileri anlamamıza yardımcı olur ve cebirsel denklemlerin çözülebilirliği ile ilgilenir.
+# Galois Teorisi
+
+**Galois teorisi**, soyut cebir ve grup teorisi ile bağlantılı bir alandır ve özellikle denklemlerin çözülebilirliği ve köklerinin simetrileri hakkında derin sonuçlar sağlar. Adını **Évariste Galois**’tan alır ve 19. yüzyılın başlarında geliştirilmiştir. Galois teorisi, polinom denklemlerinin kökleri arasındaki ilişkileri anlamamıza yardımcı olur ve cebirsel denklemlerin çözülebilirliği ile ilgilenir.
 
 Galois teorisinin temel amacı, bir polinomun köklerinin belirli bir grup içindeki simetrik yapılarını incelemektir. Bu, polinomların çözülebilirlik koşullarını, özellikle çözümün **elemanlarının radikal (karekök, küpbölünme vb.) formunda** bulunup bulunamayacağını belirler.
 
