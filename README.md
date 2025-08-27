@@ -9,6 +9,7 @@
 * Fraktal Geometri
 * Galois Teorisi
 * Graf Teorisi
+* Grup Teorisi
 * İstatistik
 * Kısmi Diferansiyel Denklemler
 * Komplex Analiz
